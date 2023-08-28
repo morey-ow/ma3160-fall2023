@@ -111,6 +111,7 @@ Labor Day, no class
 ## Week 5
 ### Monday September 25, 2023
 
+
 [Vectors by 3blue1brown](https://youtu.be/fNk_zzaMoSs) (9min)
 [3.1 part 1 vectors](https://youtu.be/I8whWNqRSbM) (18 min)
 [3.1 part 2 worked example](https://youtu.be/pQyXAMXHNv8) (6 min)
@@ -126,33 +127,84 @@ Labor Day, no class
 
 ## Week 6
 ### Monday October 2, 2023
+[3.3 Orthogonality](https://youtu.be/vdK-I7rWM5A) (8 min)
+[3.3 2 Exercises from Anton](https://youtu.be/UjQoFErahLI) (13 min)
+
+
+
 ### Wednesday October 4, 2023
+[3.3 Projection](https://youtu.be/2lWSSoRAr8U?t=10) (8 min)
+[3.3 Shortest distance from a point to a line](https://youtu.be/AtNeEeU5sJ0) (7 min)
 
 ---
 
 ## Week 7
+
 ### Monday October 9, 2023
-Columbus Day, no class
+
+Columbus/Indigenous Peoples Day, no class
+
 ### Wednesday October 11, 2023
+
+[3.4 Geometry of Linear Systems](https://youtu.be/y4neEUBKtl0) (14 min)
+
+[3.5 Cross Products](https://youtu.be/4e7rA17GdEY) (16 min)
+
 ---
+
 ## Week 8
 ### Monday October 16, 2023
+
+\item \href{https://youtu.be/TgKwz5Ikpc8}{Abstract Vector Spaces (3Blue1Brown)} (16 min)
+\item \href{https://youtu.be/XNHCe2CysJw}{4.1 General Vector Spaces} (21 min)
+\item \href{https://youtu.be/AslLGOf2GKM}{4.2 Subspaces} (10 min)
+
 ### Wednesday October 18, 2023
+\item \href{https://youtu.be/vt6jbk4Ekjc}{4.3 1 span} (13 min)
+\item \href{https://youtu.be/3oj7dpfbKI8}{4.3 2 linear independence} (7 min)
+
+
+
 ---
 ## Week 9
 ### Monday October 23, 2023
+
+\item \href{https://youtu.be/ueRA1oojObM}{4.4 1 basis} (7 min)
+\item \href{https://youtu.be/2ZxRw88S7YY}{4.4 2 basis continued (9 min)}
+\item \href{https://youtu.be/Q9uBI9hahNI}{4.6 Dimension} (13 min)
+
 ### Wednesday October 25, 2023
+
+\item \href{https://youtu.be/zNi2jpnQaTs}{4.8 1 row col null space} (9 min)
+ \item \href{https://youtu.be/jwD6u3ea1vk}{4.8 2 col space} (9 min)
 ---
 ## Week 10
 ### Monday October 30, 2023
+
+
+ \item \href{https://youtu.be/r9VBhZ4jLPg}{4.8 3 row space } (18 min)
+ \item \href{https://youtu.be/BWxMKs6LZKk}{4.8 4 null space} (3 min)
+
+ 
 ### Wednesday November 1, 2023
+   \item \href{https://youtu.be/Ip3X9LOh2dk}{Determinant} (10 min) 
+    \item \href{https://youtu.be/3K8I360JHHY}{2.1 determinants} 17 min
+    \item \href{https://youtu.be/sdA3GZvjXgM}{2.2 determinants via row reduction} 19 min
+
+\item \href{https://youtu.be/PFDu9oVAE-g}{Eigenvectors and eigenvalues} (17 min) video by 3Blue1Brown/Grant Sanderson
+\item \href{https://youtu.be/BOKgAs0Ihrc}{5.1 Eigenvalues} (11 min)
 ---
 ## Week 11
 ### Monday November 6, 2023
+\item \href{https://youtu.be/guSdXuD7xi4}{5.2 Diagonalization} (13 min)
+
 ### Wednesday November 8, 2023
+\item \href{https://youtu.be/Js4RT0W_9OA}{5.5 Markov Chains and Dynamical Systems} (13 min)
+
 ---
 ## Week 12
 ### Monday November 13, 2023
+
 ### Wednesday November 15, 2023
 ---
 ## Week 13
