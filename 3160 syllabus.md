@@ -16,6 +16,8 @@ MA 3160 Linear Algebra
 **Email:**  morey@oldwestbury.edu
 **Class meeting times:** 11:20 am - 12:50 pm MW 	
 
+This course will include additional opportunities for student learning and direct instruction, including YouTube videos embedded in the course textbook (see below)”
+
 ### **Zoom link for class meetings**: 
 See Brightspace
 
