@@ -17,7 +17,7 @@ MA 3160 Linear Algebra
 **Class meeting times:** 11:20 am - 12:50 pm MW 	
 
 ### **Zoom link for class meetings**: 
-https://suny-ow-edu.zoom.us/j/85101460095?pwd=dkpGdFd4R0ZPU2RmSUUzUXpBbnFnZz09
+See Brightspace
 
 
 ### Office Hours:
