@@ -138,7 +138,7 @@ The **website gives answers to all the questions** (that is in part on reason I 
 For various reasons, I have abandoned giving timed written exams, for better or worse. 
 
 ## Late work policy
-I don't accept any late work. See Brightspace for exact deadlines, but they are generally a week after a learning outcome worksheet being assigned.
+I don't accept any late work. See Brightspace for exact deadlines, but they generally will be a week after the learning outcome worksheet in question is covered and assigned.
 
 
 
